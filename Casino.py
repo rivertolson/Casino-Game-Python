@@ -2,6 +2,8 @@ import random
 import pickle
 
 """
+    Added this line of code to see if everything works.
+
     This is a casino simulator
 """
 
@@ -242,7 +244,7 @@ def slots(money, chips):
                 break
     return (money, chips)
 
-""" 
+"""
 ----- Black Jack -----
 The objective of black jack is to get a count as close to 21 as possible
 without going over 21.
