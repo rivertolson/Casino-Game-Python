@@ -2,8 +2,6 @@ import random
 import pickle
 
 """
-    Added this line of code to see if everything works.
-
     This is a casino simulator
 """
 

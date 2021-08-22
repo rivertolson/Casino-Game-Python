@@ -12,10 +12,10 @@ project I would like to continue with. The Discord bot could come first or
 the full game development.
 
 This initial project ends when I am satisfied with the game as it stands and
-I see that the project could then grow into two seperate ones. The threshold
-will be met when I feel that there is no need, or practial use, to add any
+I see that the project could then grow into two separate ones. The threshold
+will be met when I feel that there is no need, or practical use, to add any
 more games or code that would not work in the discord bot. For example,
-if I wanted to add somthing like a dart board, which would need a GUI, I
+if I wanted to add something like a dart board, which would need a GUI, I
 would not add that until I get to the game development project.
 
 ===== DISCORD BOT =====
